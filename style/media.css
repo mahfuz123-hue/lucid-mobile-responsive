@@ -1,0 +1,70 @@
+@media(max-width:575px){
+    .mbl_img {
+        display: none;
+    }
+    .banner_cont {
+       text-align: center;
+    }
+    .navbar-toggler{
+        color: #fff;
+        padding: 0;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .nav-link{
+        display: inline-block;
+    }
+    .span_two {
+        margin-bottom: 0;
+    }
+    .computer i {
+        margin-top: 10px;
+    }
+    .mbl_image {
+        text-align: center;
+    }
+    .mbl_image img {
+        width: 50%;
+    }
+    .beauty {
+        padding: 10px !important;
+    }
+    .span ul {
+        justify-content: center;
+    }
+    .beauty_cont {
+        text-align: center;
+    }
+    .icon_div {
+        margin-left: 80px;
+    }
+    .cup h5 {
+        font-size: 14px;
+    }
+    .order_now{
+        margin: 0 35px;
+        margin-top: 30px;
+    }
+    .button{
+        text-align: center;
+    }
+    .like_cont h1 {
+        font-size: 16px;
+    }
+    .like_cont{
+        font-size: 16px;
+        margin-left: 110px;
+        margin-bottom: 20px;
+    }
+    .ceo{
+        justify-content: center;
+    }
+    .once h3{
+        text-align: center;
+    }
+}
